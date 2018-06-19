@@ -1,5 +1,5 @@
 {
-  "name": "wechat-oauth",
+  "name": "sny7-wechat-oauth",
   "version": "1.4.2",
   "description": "微信公共平台OAuth",
   "main": "lib/oauth.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/wechat-oauth.git"
+    "url": "git://github.com/SNY7/wechat-oauth.git"
   },
   "keywords": [
     "weixin",
